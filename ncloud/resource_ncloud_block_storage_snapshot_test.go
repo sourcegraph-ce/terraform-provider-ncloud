@@ -2,7 +2,7 @@ package ncloud
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"testing"
 
 	"github.com/NaverCloudPlatform/ncloud-sdk-go-v2/ncloud"

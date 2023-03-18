@@ -3,7 +3,7 @@ package ncloud
 import (
 	"fmt"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/resource"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"testing"
 )
