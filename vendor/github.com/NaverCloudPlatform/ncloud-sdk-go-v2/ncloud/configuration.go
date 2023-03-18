@@ -2,7 +2,7 @@ package ncloud
 
 import (
 	"bufio"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net/http"
 	"os"
 	"os/user"
